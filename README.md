@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3208-alternating-groups-ii](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3208-alternating-groups-ii) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3316-find-maximum-removals-from-source-string) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3208-alternating-groups-ii](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3208-alternating-groups-ii) |
 ## String
 |  |
 | ------- |
