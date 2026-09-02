@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3316-find-maximum-removals-from-source-string) |
 ## Dynamic Programming
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
