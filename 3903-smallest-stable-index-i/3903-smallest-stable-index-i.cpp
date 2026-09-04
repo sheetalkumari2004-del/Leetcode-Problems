@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int firstStableIndex(vector<int>& nums, int k) {
+        int score = 0;
+        int n = nums.size();
+        for(int i =0; i< nums.size(); i++){
+            int mx = INT_MIN;
+            int mn = INT_MAX;
+            for (int j = 0; j <= i; j++) {
+                mx = max(mx, nums[j]);
+            }
+             for (int j = i; j < n; j++) {
+                mn = min(mn, nums[j]);
+            }
+           score = mx - mn;
+           if(score<=k){
+             return i;
+           }
+        }
+        return -1;
+    }
+};
