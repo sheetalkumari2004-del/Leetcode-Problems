@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3316-find-maximum-removals-from-source-string) |
 ## Divide and Conquer
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3316-find-maximum-removals-from-source-string) |
 ## Binary Search
