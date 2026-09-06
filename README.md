@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3316-find-maximum-removals-from-source-string) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
