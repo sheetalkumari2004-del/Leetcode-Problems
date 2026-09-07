@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0940-distinct-subsequences-ii](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3316-find-maximum-removals-from-source-string) |
 ## Divide and Conquer
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3316-find-maximum-removals-from-source-string) |
 ## Binary Search
