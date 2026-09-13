@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0835-image-overlap](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
