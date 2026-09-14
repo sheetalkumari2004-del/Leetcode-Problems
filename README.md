@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0836-rectangle-overlap](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
