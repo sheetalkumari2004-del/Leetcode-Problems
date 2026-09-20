@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0940-distinct-subsequences-ii](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3316-find-maximum-removals-from-source-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/sheetalkumari2004-del/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
